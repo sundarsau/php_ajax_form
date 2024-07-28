@@ -1,6 +1,6 @@
 # Form Submit using Ajax in PHP
  Submit form using Ajax in PHP. 
-This application is about developing a Bootstrap form and write Ajax to submit the form. Then using PHP code insert the form data in a MySQL table. Also, it uses Bootstrap alert to display messages. For similar learning tutorial for web development visit https://codehow2.com.
+This application is about developing a Bootstrap form and write Ajax to submit the form. Then using PHP code insert the form data in a MySQL table. Also, it uses Bootstrap alert to display messages. For similar learning tutorials for web development visit my website https://codehow2.com.
 # How To Use
 1) Download the repository from https://github.com/sundarsau/php_ajax_form
 2) Extract all the files under xampp/htdocs
